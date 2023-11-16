@@ -1,14 +1,13 @@
-## About
+## Sobre
 
-This is a project used to import and update new data from Sql Server Database to TOTVS Corpore RM system via webservices.
+Este é um projeto para integrar dados de um sistema proprietário com banco de dados SQL Server, para o sistema TOTVS Corpore RM por meio de webservices. 
 
-The integration logic can be found on Program.cs 
+A lógica de integração está localizada no arquivo Program.cs
 
-
-## Resources
-DataClient.cs and Utils.cs can be found here:
+## Recursos
+DataClient.cs e Utils.cs originais opdem ser encontrados aqui:
 * http://tdn.totvs.com/download/attachments/211064343/Utils.cs
 * http://tdn.totvs.com/download/attachments/211064343/DataClient.cs
  
-How to use CorporeRM Webservices (pt-br)
+Como utilizar CorporeRM Webservices (pt-br)
 * https://github.com/TBertuzzi/TOTVSRMnetCore
